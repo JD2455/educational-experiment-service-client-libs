@@ -18,14 +18,11 @@ src/api/schema.gql
 # Typing #
 typings/
 
-# Dist #
-dist/
-
 # IDE #
 .idea/
 *.swp
 .awcache
- 
+
  # java #
 java/.classpath
 java/.project
